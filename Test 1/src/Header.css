@@ -1,0 +1,16 @@
+.banner{
+  padding-top: 1px;
+  padding-bottom: 10px;
+  width: 100vw;
+  height: 80vh;
+  max-width: 1280px;
+}
+.header {
+  padding-bottom: 10px;
+  background-color: lightblue;
+  display: flex;
+  justify-content: space-evenly;
+}
+.logo{
+  width: 50px;
+}

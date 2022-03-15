@@ -1,0 +1,17 @@
+.home{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 80vw;
+}
+
+.contain{
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  justify-content: center;
+}
+
+a{
+  width: 10vw;
+}
