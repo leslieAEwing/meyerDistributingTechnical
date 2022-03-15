@@ -1,26 +1,8 @@
-## Available Scripts
+# Test 2 Installation Instructions
 
-In the project directory, you can run:
+1. Open a terminal (Windows powershell or the like) and navigate to the Test 1 folder (make sure to close any of the other projects first before proceeding).
+2. Type `npm install` (if you have issues, make sure you installed node and npm - see main [README.md](https://github.com/leslieAEwing/meyerDistributingTechnical) file)
+3. Type `npm start`
+4. If a browser does not open automatically, open a browser and go to <http://localhost:3000>
 
-### `npm install`
-
-Installs the dependencies of the app.
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Once you have followed these steps and wish to rerun the project, simply follow the steps above but skip step 2.

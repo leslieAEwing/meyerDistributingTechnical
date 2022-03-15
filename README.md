@@ -10,13 +10,13 @@ If you get any kind of error that says neither of those items are installed, fol
 
 ## Basic Instructions
 
-Go through each project ([Test 1](https://github.com/leslieAEwing/meyerDistributingTechnical/tree/main/Test%201), [Test 2](https://github.com/leslieAEwing/meyerDistributingTechnical/tree/main/Test%202), and [Test 3](https://github.com/leslieAEwing/meyerDistributingTechnical/tree/main/Test%203)) and give us a run down of any issues you find. You may find more issues for one project compared to another - that is fine and is to be expected.
+Go through each project ([Test 1](https://github.com/leslieAEwing/meyerDistributingTechnical/tree/main/Test%201), [Test 2](https://github.com/leslieAEwing/meyerDistributingTechnical/tree/main/Test%202), and [Test 3](https://github.com/leslieAEwing/meyerDistributingTechnical/tree/main/Test%203)) and give us a run down of any issues you find - design, functionality, error messages, etc. You may find more issues for one project compared to another - that is fine and is to be expected.
 
 Create separate documents for each project with the items you find. To run each project, follow the instructions for each individual project found on each project's README file.
 
 ## Project Instructions
 
-Each project was given the same initial instructions on what was to be expected. Here is the general synopsis of what was expected.
+Each project was given the same initial instructions on what was to be expected. Here is a rundown of what we were looking for:
 
 ### Products
 
